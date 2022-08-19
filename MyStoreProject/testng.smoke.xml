@@ -13,6 +13,13 @@
 		</groups>
 		<classes>
 	  <class name="com.MyStore.TestCases.IndexPageTest"/>
+      <class name="com.MyStore.TestCases.OrdrePageTest"/>
+      <class name="com.MyStore.TestCases.HomePageTest"/>
+      <class name="com.MyStore.TestCases.AddToCartPageTest"/>
+      <class name="com.MyStore.TestCases.SearchResultPageTest"/>
+      <class name="com.MyStore.TestCases.LoginPageTest"/>
+      <class name="com.MyStore.TestCases.AccountCreationPageTest"/>
+      <class name="com.MyStore.TestCases.EndToEndTest"/>
 
 		</classes>
 	</test> <!-- Test -->

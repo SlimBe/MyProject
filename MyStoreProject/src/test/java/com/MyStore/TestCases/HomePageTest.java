@@ -63,7 +63,7 @@ public class HomePageTest extends BaseClass {
         //homepage=loginPage.login(prop.getProperty("username"), prop.getProperty("password"));
         Log.info("checking Validate Order history");
         boolean result=homepage.ValidateOrderHistory();
-        Assert.assertTrue(result);
+        Assert.assertTrue(false);
         Log.info("Validate Order history checked");
         Log.endTestCase("OrderHistoryTest");
 	}
